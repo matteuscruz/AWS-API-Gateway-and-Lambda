@@ -1,2 +1,1 @@
-# AWS-API-Gateway-and-Lambda
-AWS API Gateway and Lambda python files.
+# AWS API Gateway and Lambda
